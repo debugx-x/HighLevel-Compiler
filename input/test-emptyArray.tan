@@ -1,0 +1,12 @@
+main {
+	var a := new [int] (10);
+	print a \n;
+	var b := new [float] (10);
+	print b \n;
+	var c := new [char] (10);
+	print c \n;
+	var d := new [bool] (10);
+	print d \n;
+	var e := new [string] (10);
+	print e \n;
+}

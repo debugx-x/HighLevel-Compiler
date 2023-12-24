@@ -1,0 +1,3 @@
+main {
+	const test := 5;
+}

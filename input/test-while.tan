@@ -1,0 +1,7 @@
+main {
+	var a := 0;
+    while(a < 4){
+    print "abc" \n;
+    a := a + 1;
+    }
+}

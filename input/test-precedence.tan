@@ -1,0 +1,4 @@
+main {
+	var test := (1-2/3) + (-1 * 7);
+	print test \n;
+}

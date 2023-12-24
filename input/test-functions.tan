@@ -1,0 +1,23 @@
+subr int fin( int a, int b ){
+	return pax(5*a, b);
+}
+subr int pax( int a, int b ){
+	if( a < b ){
+		return a;
+	}
+	return b + pax(a, 3*b);	
+}
+main {
+	const a := 11;
+	const b := 14;
+	const c := 16;
+	
+	if( a > 5){
+		const m := pax(a, b);
+		print m \n;
+		const pax := fin(a, m);
+		print pax\n;
+	}
+	const x := pax(a,b);
+	print x \n;
+}

@@ -1,0 +1,8 @@
+main {
+	print 1 > 0 \n;
+	print 0 > 1 \n;
+	print 1.0 > 0.0 \n;
+	print 0.0 > 1.0 \n;
+	print '1' > '0' \n;
+	print '0' > '1' \n;
+}

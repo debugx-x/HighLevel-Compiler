@@ -1,0 +1,6 @@
+main {
+    print  false || false \n;
+    print  false || true \n;
+    print  true || false \n;
+    print  (true || true) || false \n;
+}

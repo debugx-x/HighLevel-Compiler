@@ -1,0 +1,15 @@
+main {
+	print 2 + 2 \n;
+	print 2.0 + 2.0 \n;
+	print 1.0E+2 + 1.0E+1 \n;
+	print 2 - 2 \n;
+	print 2.0 - 2.0 \n;
+	print 1.0E+2 - 1.0E+1 \n;
+	print 2 * 2 \n;
+	print 2.0 * 2.0 \n;
+	print 1.0E+2 * 1.0E+1 \n;
+	print 2 / 2 \n;
+	print 2.0 / 2.0 \n;
+	print 1.0E+2 / 1.0E+1 \n;
+	print 2.0 / 0.0 \n;
+}

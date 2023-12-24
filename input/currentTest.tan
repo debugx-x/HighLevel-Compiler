@@ -1,0 +1,9 @@
+subr void p( int a ){
+	print a \n;
+	return;
+}
+
+main {
+	call p(6);
+	call p(8);
+}

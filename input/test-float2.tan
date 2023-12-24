@@ -1,0 +1,4 @@
+main {
+	const temp := 4;
+	print temp \n;
+}

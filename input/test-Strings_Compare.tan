@@ -1,0 +1,10 @@
+main {
+	const a := "ABC";
+	var b := a;
+	const c := "ABC";
+	print a == b \n;
+	print a == c \n;
+	print b == c \n;
+	print c == a \n;
+	print a \t b \t c \n;
+}

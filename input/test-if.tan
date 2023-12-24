@@ -1,0 +1,13 @@
+main {
+    if(true){
+    print "123" \n;
+    }
+    
+    if(false){
+    print "abc" \n;
+    }
+    
+    else{
+    print "yo" \n;
+    }
+}

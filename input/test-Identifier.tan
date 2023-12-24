@@ -1,0 +1,4 @@
+main {
+	const _@aZ1 := 1;
+	print _@aZ1 \n;
+}

@@ -1,0 +1,5 @@
+main {
+    print !true  \n;
+    print !false \n;
+    print !!false \n;
+}

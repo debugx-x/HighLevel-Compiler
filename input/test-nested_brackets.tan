@@ -1,0 +1,8 @@
+main {
+	const a := 3 ;
+	{
+	const a := 567;
+	print a \n;
+	}
+	print a \n;
+}
